@@ -1,0 +1,6 @@
+{
+  "name": "AI Pay",
+  "description": "Next-generation digital payments & AI financial intelligence. Pay smart, spend smarter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
